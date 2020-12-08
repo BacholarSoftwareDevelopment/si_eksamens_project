@@ -1,7 +1,14 @@
 # System Integration 2020 Exam Project
 
-[Examens Project PDF ](sieksamen.pdf)
 
+## Links
+
+    * [Assignment PDF Link ](sieksamen.pdf)
+    * [Video Link](#href)
+    * [????](#href)
+    * [????](#href)
+
+* * *
 
 **Authors**
 
@@ -10,3 +17,22 @@
 - Hassuni Salem
 
 - Jörg Oertel
+
+* * *
+
+**Brief Summary**
+
+* * *
+
+**Instructions**
+
+* * *
+
+**Documentations**
+
+* * *
+
+**Diagramms**
+
+* * *
+
