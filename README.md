@@ -14,7 +14,7 @@
 
 - Morten Feldt
 
-- Hassuni Salem
+- Nur Salem
 
 - Jörg Oertel
 
