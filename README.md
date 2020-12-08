@@ -3,10 +3,10 @@
 
 ## Links
 
-    * [Assignment PDF Link ](sieksamen.pdf)
-    * [Video Link](#href)
-    * [????](#href)
-    * [????](#href)
+* [Assignment PDF Link ](sieksamen.pdf)
+* [Video Link](#href)
+* [????](#href)
+* [????](#href)
 
 * * *
 
