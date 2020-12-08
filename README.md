@@ -1,2 +1,12 @@
-# si_eksamens_project
-System Integration 2020 Exam Project
+# System Integration 2020 Exam Project
+
+[Examens Project PDF ](sieksamen.pdf)
+
+
+**Authors**
+
+- Morten Feldt
+
+- Hassuni Salem
+
+- Jörg Oertel
