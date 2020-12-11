@@ -42,6 +42,10 @@
 
 * * *
 
+<img src="./images/enterprisepattern.png" style="float: left; margin-left: 20px;" />
+
+* * *
+
 **Branch Strategy**
 
 * * *
