@@ -38,7 +38,7 @@
 
 **Diagramms**
 
-<img src="./images/message_transmission.png" />
+<img src="./images/message_transmission.png" style="float: left; margin-left: 20px;" />
 
 * * *
 
