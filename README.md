@@ -1,6 +1,5 @@
 # System Integration 2020 Exam Project
 
-
 ## Links
 
 * [Assignment PDF Link ](sieksamen.pdf)
