@@ -4,8 +4,6 @@
 
 * [Assignment PDF Link ](sieksamen.pdf)
 * [Video Link](#href)
-* [Hotel Booking Sytem](#href)
-* [Chat System](#href)
 
 * * *
 
