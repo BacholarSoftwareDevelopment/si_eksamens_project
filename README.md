@@ -76,7 +76,7 @@ In the end the message is logged in a file for later information.
 
 * * *
 
-<img src="./images/enterprisepattern.png" style="float: left; margin-left: 20px;" />
+<img src="./images/enterprise_pattern.png" style="float: left; margin-left: 20px;" />
 
 * * *
 
