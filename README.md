@@ -88,14 +88,48 @@ We have implemented a REST API, where hotels are stored, and then if the branch,
 
 ---
 
-**Architecture**  
+**Instructions**
+1. Run **Eureka Discovery Server** for activate Eureka Discovery Server on port 8761. 
+2. Run **API-Gateway** for activate API-Gateway on port 8080.
+3. Run **Hotels** for activate WebService about hotels.
+4. Run **Producer** for activate producer of message broker.
+5. Run **Consumer** for activate consumer of messages based on id and topic.
 
-Our architecture is build in that way, that we have an UI that communicate with the API Gateway.  
-The gateway takes requests to the system, so we are able to either send a message or retrieve a message.  
-If it's sends a message, the message would go further into Kafka message broker, that translate and route the message to the right topic.  
-In the end, the message is logged in a file for later information.
-
----
+6. Run following in **PostMan** for **produce** message:  
+**URL:**  
+http://localhost:8080/message  
+**Request:**  
+POST  
+**Header - Key:**  
+Content-Type  
+**Header - Value:**  
+application/json  
+**Body:**  
+id - number  
+topic - hotel, airport, tourism  
+name - text  
+city - text  
+message - text  
+**EXAMPLE**  
+{  
+    "id":1,  
+    "topic":"hotel",  
+    "name":"Morten",  
+    "city":"København",  
+    "message":"Hi, I am asking for hotels in København"  
+}  
+7. Run following in **PostMan** for **consume** message:  
+**URL:**  
+http://localhost:8080/message/{id}/{topic}  
+**Request:**  
+GET  
+**URL parameters:**  
+id - number  
+topic - hotel, airport, tourism  
+**EXAMPLE**    
+http://localhost:8080/message/1/hotel
+8. If you choose topic **hotel** in step 7 above, you will see an information from Web about hotel id and name from Webservice.   
+* * *
 
 <img src="./images/chat_service_architecture.png" style="float: center; height: 30%; width: 30%;" />
 
