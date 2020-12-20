@@ -17,7 +17,6 @@
 -  [si_eksamens_hotels](https://github.com/BacholarSoftwareDevelopment/si_eksamens_hotels/blob/main/README.md)
 -  [si_eksamens_producer](https://github.com/BacholarSoftwareDevelopment/si_eksamens_producer/blob/main/README.md)
 -  [si_eksamen_consumer](https://github.com/BacholarSoftwareDevelopment/si_eksamen_consumer/blob/main/README.md)
--  [si_eksamen_frontend](https://github.com/BacholarSoftwareDevelopment/si_eksamen_Frontend/blob/main/README.md)
 
 ---
 
