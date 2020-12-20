@@ -8,7 +8,7 @@
 **Links**
 
 - [Assignment PDF Link ](sieksamen.pdf)
-- [Video Link](#href)
+- [Video Link](https://youtu.be/yo55DGu1Cns)
 
 **Project Links**
 
