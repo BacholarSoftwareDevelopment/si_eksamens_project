@@ -168,7 +168,7 @@ We have implemented a REST API, where hotels are stored, and then if the branch,
 
 <img src="./images/chat_service_architecture.png" style="float: center; height: 30%; width: 30%;" />
 
-<i style="font-size:15px;">The diagram shows the flow from the gateway to the consumer or producer</i>
+<i style="font-size:15px;">The diagram .....</i>
 
 ---
 
