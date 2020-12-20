@@ -182,7 +182,3 @@ We have implemented a REST API, where hotels are stored, and then if the branch,
 <i style="font-size:15px;">Enterprise pattern: Content_base_router with a translator for transforming messages </i>
 
 ---
-
-## Summary
-
-The application we wanted to develop is long from finish. 
