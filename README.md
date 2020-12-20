@@ -29,7 +29,7 @@ DevOrgs has accepted the request from the travel agency and then asked our team 
 The travel agency has set up the following requirements for the feature:
 1.	Empty messages should not be allowed – Error message should be show to customer.
 2.	Messages should be written to only one of the following branches: Hotel, Airplane, Tourist.
-3.	Customer should type in: Name, Year of birth, Destination beside the message and branch.
+3.	Customer should type in: Name, Destination City beside the message and branch.
 4.	Only messages contain all information as in points 2 and 3 is allowed – otherwise an error message should be shown.
 5.	It should be possible to get messages in different format, ex. XML and JSON from the customer.
 6.	Messages should be converted to JSON at the end in the travel agency employee.
