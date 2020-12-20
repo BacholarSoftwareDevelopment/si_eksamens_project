@@ -160,14 +160,14 @@ We have implemented a REST API, where hotels are stored, and then if the branch,
 
 <img src="./images/chat_service_flow.png" style="float: center; height: 60%; width: 60%;" />
 
-<i style="font-size:15px;">The diagram shows the infrastructure of the planned chat service</i>
+<i style="font-size:15px;">The diagram shows the flow of the planned chat service</i>
 
 ---
   
 
 <img src="./images/chat_service_architecture.png" style="float: center; height: 30%; width: 30%;" />
 
-<i style="font-size:15px;">The diagram .....</i>
+<i style="font-size:15px;">The diagram shows the architecture of the planned chat service</i>
 
 ---
 
