@@ -47,25 +47,25 @@
     * cp config/server.properties config/server-2.properties
 2. edit these new files and set the following properties:
 
-`
-//config/server-1.properties:
-broker.id=1
-listeners=PLAINTEXT://:9093
-log.dir=/tmp/kafka-logs-1
+   ``
+   //config/server-1.properties:
+   broker.id=1
+   listeners=PLAINTEXT://:9093
+   log.dir=/tmp/kafka-logs-1
  
-//config/server-2.properties:
-broker.id=2
-listeners=PLAINTEXT://:9094
-log.dir=/tmp/kafka-logs-2
-`
+   //config/server-2.properties:
+   broker.id=2
+   listeners=PLAINTEXT://:9094
+   log.dir=/tmp/kafka-logs-2
+   ``
 
-3. start those kafka-brokers:
+3. to start those additonal kafka-brokers:
 
-`
-bin/kafka-server-start.sh config/server-1.properties
+   ``
+   bin/kafka-server-start.sh config/server-1.properties
  
-bin/kafka-server-start.sh config/server-2.properties
-`
+   bin/kafka-server-start.sh config/server-2.properties
+   ``
 
 ## Run following in **PostMan** for **produce** message:
 
