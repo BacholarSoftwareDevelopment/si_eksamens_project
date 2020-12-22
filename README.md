@@ -47,12 +47,12 @@
     * cp config/server.properties config/server-2.properties
 2. edit these new files and set the following properties:
 
-    config/server-1.properties
+    vim config/server-1.properties
     * broker.id=1
     * listeners=PLAINTEXT://:9093
     * log.dir=/tmp/kafka-logs-1
 
-    config/server-1.properties
+    vim config/server-2.properties
  
     * broker.id=2
     * listeners=PLAINTEXT://:9094
